@@ -20,7 +20,7 @@ int main() {
 }
 
 
-//    const char* socketPath = "/home/ivan/socket2";
+//    const char* socketPath = "/home/socket2";
 //    int socketFd = socket(AF_UNIX, SOCK_STREAM, 0);
 //    sockaddr_un socketAddr, peerAddr;
 //
